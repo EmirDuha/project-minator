@@ -1,5 +1,5 @@
 # Project Mamithor 
-
+"*" işareti kullanılan yerler ben ile alakalı olan kısımlardır.
 
 ## Projeye Genel Bakış 
 
@@ -18,7 +18,7 @@ Belirtilen sorunun sebeplerinden biri, zamanlamayı düşünürken okulun işley
 
 ## Öğrenilmiş Dersler
 - Doğru ve kendini adamış bir ekiple iş yapmanın ne kadar kolay olduğunu görmekle beraber ekip dikkatinin ne kadar kolay dağıldığını ve toplamanın cidden zor olduğunu öğrenmiş oldum.
-- Ekip arkadaşlarıma dağıtılan işlerin doğru şekilde verilmesinin önemini öğrendim. Örnek olarak Emir maliyet konusunda inanılmaz bir iş çıkardı, bu işi ekipteki kimse bu detayda yapamazdı.
+- Ekip arkadaşlarıma dağıtılan işlerin doğru şekilde verilmesinin önemini öğrendim. Örnek olarak Emir maliyet konusunda inanılmaz bir iş çıkardı, bu işi ekipteki kimse bu detayda yapamazdı.*
 - İnsan yönetmenin projenin fikir ve yapım aşamasından daha zor olduğunu öğrenmiş oldum.
 - Bir proje yönetim aracı olmadan iş takibin ne kadar zor olduğunu jira kullanmadığımız dönemde farkettik. Whatsapp kullanılan dönemde verimliliğin düştüğünü gözlemledik.
 - Toplantı sırasında ve öncesinde ufak notların değerini anlamış oldum.Hem toplantı sırasında hem de başlangıcında bazı konuların atlandığı ve sonraya bırakıldığı oldu.
@@ -30,7 +30,7 @@ Belirtilen sorunun sebeplerinden biri, zamanlamayı düşünürken okulun işley
 |isim|puan|sebep ve değerlendirme|  
 |-----|-----|--------------------|
 |Serhat can bakır|93     | Bu proje içinde ekip yönetimi ve herkesin suyuna gidip tartışma çıkmasını iyi engellediğimi ve yönetimsel olarak fena olmayan bir iş çıkardığımı düşünüyorum. Yazılım geliştirmede diğer ekip arkadaşlarımdan daha iyi olmam, süreçlere daha hakim olmam ve oyun sektörü hakkındaki detaylı bilgim fikirleri objektif ve rasyonel şekilde değerlendirebilmemi sağladı ki bu, bu proje özelinde gayet yeterli bir yöneticilik yapmam konusunda anahtar faktör oldu. Fakat dökümantasyon konusu bana biraz daha yeni olduğu için bu alanda teknik ve yönetimsel işler kadar iyi olmadığımı ama geliştiğimi ve gelişmeye açık olduğumu düşünüyorum.|
-|Emir Duha Nakişci|90|Performansından oldukça memmun olduğum bir ekip arkadaşımdı. Daha önce belirttiğim gibi işinde özverili çalıştı, bayramda zorunda olmamasına rağmen maliyet analiz raporunu yazdı. Oyunumuzun grafik tasarımı ve gösterimi tamamen onun sırtındaydı. Bir oyunun en büyük tercih edilme sebeplerinden birinin grafik ve animasyonlar olduğunu düşünürsek Emir bu noktada projemizi diğerlerinden gayet ayıracak bir iş çıkardı. Tek eksik yönünün fikir belirtme konusunda eksik olduğunu düşünüyorum fakat bu yönünü hem özverisi hemde oyun geliştirme konusundaki bilgisi ile çok net şekilde telafi ediyor.Tutkulu olduğu işlerde ekip içinde hem daha fazla rol alıp hemde daha iyi sonuçlar çıkaracağını düşünüyorum.|
+|Emir Duha Nakişci*|90|Performansından oldukça memmun olduğum bir ekip arkadaşımdı. Daha önce belirttiğim gibi işinde özverili çalıştı, bayramda zorunda olmamasına rağmen maliyet analiz raporunu yazdı. Oyunumuzun grafik tasarımı ve gösterimi tamamen onun sırtındaydı. Bir oyunun en büyük tercih edilme sebeplerinden birinin grafik ve animasyonlar olduğunu düşünürsek Emir bu noktada projemizi diğerlerinden gayet ayıracak bir iş çıkardı. Tek eksik yönünün fikir belirtme konusunda eksik olduğunu düşünüyorum fakat bu yönünü hem özverisi hemde oyun geliştirme konusundaki bilgisi ile çok net şekilde telafi ediyor.Tutkulu olduğu işlerde ekip içinde hem daha fazla rol alıp hemde daha iyi sonuçlar çıkaracağını düşünüyorum.|
 |Muhammed Emir Aydın|87|Performansını yeterli bulduğum bir ekip arkadaşımdı. İşlerini zamanında yaptı ve ortalama/ortalama üstü bir iş çıkardığını düşünmekle beraber onun haricinde daha onaylayıcı bir tavıra sahipti. Fikir belirtme konusunda doğru şekilde desteklendiği zaman fikirlerini güzel belirtse de bu konuda daha çekingen kalmayı tercih etti. Oyun geliştirme ve oyun pazarı konusundaki bilgisi benim ve projenin gidişatı için büyük önem arz etti. Doğru ortamda oldukça verimli bir ekip arkadaşı olduğunu düşünüyorum.Ayrıca herhangi bir işi yaparken şikayet etmeyen oldukça uyumlu biri.|
 |İsmail YILMAZ|86|Kendi işlerini ortalama üstü yapan fikrini belirtmekten geri durmayan biri. Bu proje genelinde fikrini oldukça belirtmenin yanında sık fikir üretmesi ve neredeyse hepsini belirtmesi nedeniyle diğer ekip arkadaşlarımızın bu konuda daha pasif kalmasına neden olduğunu düşünüyorum.Fikrini değiştirmekte sakınca görmeyen açık düşünceli biri o yüzden kavga yerine tartışma ortamı ile kararlar alınabildi.Proje rapor formatımızın sabitlenmesi gibi bazı fikirleri projemiz açısından önemliydi. Genel olarak iyi bir ekip arkadaşı, yükümü hafifleten ve beraber çalışmaktan keyif aldığım biri.|
 
@@ -44,7 +44,7 @@ Oldukça keyifli (jira hariç) ve bilgilendirici bir proje olduğunu düşünüy
 |kapsam raporu |Muhammet Emir Aydın |Bu belgede projenin kapsamı belirlenip geliştirme aşamasında kafa karışıklığı önlenmesi amaçlanmıştır.|
 |GDD/Mimari belgesi| Serhat Can BAKIR |Bu belge hem oyunun nasıl bir görsel tasarıma sahip olacağı hem de mekanik ve genel oyun yapısı hakkında fikir verir ayrıca teknik bazı seçimleri açıklar.|
 |Başlatma Raporu |Serhat can BAKIR| Bu belge projenin başlatılmasını resmi hale getirmeyi amaçlar.|
-|İletişim belgesi| Emir Duha Nakişci|Bu belge ekip ve paydaşların iletişim planlarını açıklar.|
-|Maliyet raporu |Emir Duha Nakişci|Projede harcanacak bütçeyi tahmin etmeyi amaçlar.|
+|İletişim belgesi*| Emir Duha Nakişci|Bu belge ekip ve paydaşların iletişim planlarını açıklar.|
+|Maliyet raporu* |Emir Duha Nakişci|Projede harcanacak bütçeyi tahmin etmeyi amaçlar.|
 |Gereksinim raporu| Ismail Yılmaz|Projede gereksinim duyulacak sistemleri açıklar.|
 |Paydaş analizi| İsmail Yılmaz|Projenin paydaşlarını açıklar.|
